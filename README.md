@@ -44,7 +44,7 @@ npm run dev
 ```
 
 ## 🌐 Project Structure
-
+```
 /app
   /admin
     /login         → Admin login page
@@ -56,3 +56,4 @@ lib/api.js          → Axios setup with JWT
 lib/auth.js         → Refresh token logic
 styles/globals.css  → Tailwind styles
 
+```

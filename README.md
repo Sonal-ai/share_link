@@ -1,4 +1,4 @@
-# 🎓 TnP Share App – Secure Data Sharing via Link
+# 🎓 Link Share App – Secure Data Sharing via Link
 
 A frontend web application that allows the Training & Placement cell to **share student data via secure, tokenized links** without requiring the receiver to log in.
 
@@ -27,8 +27,8 @@ Built with:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/tnp-share-frontend.git
-cd tnp-share-frontend
+git clone https://github.com/your-username/share_link.git
+cd share_link
 ```
 
 ### 2. Install Dependencies
